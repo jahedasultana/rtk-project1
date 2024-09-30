@@ -3,7 +3,7 @@
 const ProductsView = () => {
     return (
         <div>
-            <h1>dur miea</h1>
+            <h1>dur</h1>
         </div>
     );
 };
